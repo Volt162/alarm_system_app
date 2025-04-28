@@ -1,4 +1,5 @@
 # alarm_system_app
+Not all the project code is posted, only some parts!
 <p align="left">
   <img src="https://github.com/user-attachments/assets/e26b6644-52f6-44f7-859a-77b52ca0079a" width="350" >
   <img src="https://github.com/user-attachments/assets/53efccaa-5aac-46cf-ac59-6d4d4ec679ce" width="350" >
